@@ -1,5 +1,6 @@
-# DATE FORMAT
-YYYY-MM-DDTHH:mm:ss.sssZ
+# Cavok HS
+
+Contador automático de HS's do Esquadrão Cavok!
 
 # create-svelte
 
