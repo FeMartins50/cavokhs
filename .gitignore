@@ -6,7 +6,6 @@ svelte.config.js
 .output
 .vercel
 /.svelte-kit
-/build
 
 # OS
 .DS_Store
